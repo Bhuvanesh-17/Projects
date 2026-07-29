@@ -313,8 +313,8 @@ Through this project, I strengthened my understanding of:
 Aspiring Data Analyst
 
 - 📧 Email: bhuvaneshkumar.career@gmail.com
-- 💼 LinkedIn: *linkedin.com/in/bhuvanesh-kumar7*
-- 🐙 GitHub: *github.com/Bhuvanesh-17*
+- 💼 LinkedIn: *https://linkedin.com/in/bhuvanesh-kumar7*
+- 🐙 GitHub: https://github.com/Bhuvanesh-17
 
 ---
 
