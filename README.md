@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-EDA-blue?logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?logo=microsoft-excel)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
 
@@ -318,4 +317,17 @@ Aspiring Data Analyst
 
 ---
 
+## License
+
+All Rights Reserved. This data analytics project is strictly proprietary. 
+Recruiters and hiring managers are welcome to view the code, queries, and 
+visualizations for portfolio evaluation. 
+
+You may not copy, distribute, modify, or reuse any part of this repository 
+for other projects. See the [LICENSE](LICENSE) file for the full details.
+
+---
+
 # ⭐ If you found this project helpful, consider giving it a Star!
+
+
